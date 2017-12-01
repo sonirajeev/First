@@ -10,3 +10,4 @@ This is the first repository.
 * Point Four
 * Point Five
 - Point Six
+- Point Seven
